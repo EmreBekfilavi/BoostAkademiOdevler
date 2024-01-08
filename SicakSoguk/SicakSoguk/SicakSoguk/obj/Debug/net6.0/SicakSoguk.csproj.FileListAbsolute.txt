@@ -1,0 +1,14 @@
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\bin\Debug\net6.0\SicakSoguk.exe
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\bin\Debug\net6.0\SicakSoguk.deps.json
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\bin\Debug\net6.0\SicakSoguk.runtimeconfig.json
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\bin\Debug\net6.0\SicakSoguk.dll
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\bin\Debug\net6.0\SicakSoguk.pdb
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\obj\Debug\net6.0\SicakSoguk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\obj\Debug\net6.0\SicakSoguk.AssemblyInfoInputs.cache
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\obj\Debug\net6.0\SicakSoguk.AssemblyInfo.cs
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\obj\Debug\net6.0\SicakSoguk.csproj.CoreCompileInputs.cache
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\obj\Debug\net6.0\SicakSoguk.dll
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\obj\Debug\net6.0\refint\SicakSoguk.dll
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\obj\Debug\net6.0\SicakSoguk.pdb
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\obj\Debug\net6.0\SicakSoguk.genruntimeconfig.cache
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\SicakSoguk\SicakSoguk\SicakSoguk\obj\Debug\net6.0\ref\SicakSoguk.dll
