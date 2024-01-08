@@ -1,0 +1,14 @@
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\bin\Debug\net6.0\MukemmelSayilar.exe
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\bin\Debug\net6.0\MukemmelSayilar.deps.json
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\bin\Debug\net6.0\MukemmelSayilar.runtimeconfig.json
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\bin\Debug\net6.0\MukemmelSayilar.dll
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\bin\Debug\net6.0\MukemmelSayilar.pdb
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\obj\Debug\net6.0\MukemmelSayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\obj\Debug\net6.0\MukemmelSayilar.AssemblyInfoInputs.cache
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\obj\Debug\net6.0\MukemmelSayilar.AssemblyInfo.cs
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\obj\Debug\net6.0\MukemmelSayilar.csproj.CoreCompileInputs.cache
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\obj\Debug\net6.0\MukemmelSayilar.dll
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\obj\Debug\net6.0\refint\MukemmelSayilar.dll
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\obj\Debug\net6.0\MukemmelSayilar.pdb
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\obj\Debug\net6.0\MukemmelSayilar.genruntimeconfig.cache
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\MukemmelSayilar\MukemmelSayilar\obj\Debug\net6.0\ref\MukemmelSayilar.dll
