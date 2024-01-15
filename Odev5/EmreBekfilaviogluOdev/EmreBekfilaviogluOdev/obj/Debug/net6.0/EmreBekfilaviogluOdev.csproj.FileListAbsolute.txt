@@ -1,0 +1,14 @@
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\bin\Debug\net6.0\EmreBekfilaviogluOdev.exe
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\bin\Debug\net6.0\EmreBekfilaviogluOdev.deps.json
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\bin\Debug\net6.0\EmreBekfilaviogluOdev.runtimeconfig.json
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\bin\Debug\net6.0\EmreBekfilaviogluOdev.dll
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\bin\Debug\net6.0\EmreBekfilaviogluOdev.pdb
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\obj\Debug\net6.0\EmreBekfilaviogluOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\obj\Debug\net6.0\EmreBekfilaviogluOdev.AssemblyInfoInputs.cache
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\obj\Debug\net6.0\EmreBekfilaviogluOdev.AssemblyInfo.cs
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\obj\Debug\net6.0\EmreBekfilaviogluOdev.csproj.CoreCompileInputs.cache
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\obj\Debug\net6.0\EmreBekfilaviogluOdev.dll
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\obj\Debug\net6.0\refint\EmreBekfilaviogluOdev.dll
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\obj\Debug\net6.0\EmreBekfilaviogluOdev.pdb
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\obj\Debug\net6.0\EmreBekfilaviogluOdev.genruntimeconfig.cache
+C:\Users\embek\OneDrive\Masaüstü\BilgeAdamWorkSpace\Odevler\Odev5\EmreBekfilaviogluOdev\EmreBekfilaviogluOdev\obj\Debug\net6.0\ref\EmreBekfilaviogluOdev.dll
